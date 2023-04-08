@@ -2,8 +2,10 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+#### Infra :
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanapedia)](https://github.com/anuraghazra/github-readme-stats)
+#### Dev :
 
 <!--
 **hanapedia/hanapedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
