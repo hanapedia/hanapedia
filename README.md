@@ -4,9 +4,10 @@
 ### :hammer_and_wrench: Languages and Tools :
 #### Infra :
 <dev>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" **alt="k8s" width="40" height="40"/>
 
 </dev>
+
 #### Dev :
 
 <!--
