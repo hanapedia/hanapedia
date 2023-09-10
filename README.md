@@ -3,6 +3,16 @@
 <h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
 <h4 align="left">Infra:</h4>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=
+            git,
+            kubernetes,
+            docker,
+            c,
+            vim
+            " 
+    />
+  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" **alt="ansible" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="terraform" width="40" height="40"/> </a>
